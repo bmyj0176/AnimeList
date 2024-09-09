@@ -32,7 +32,6 @@ Assassins Pride
 Attack on Titan
 B: The Beginning
 BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense
-Bakemonogatari
 Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside
 Battle Game in 5 Seconds
 Beast Tamer
@@ -103,18 +102,17 @@ Golden Time
 Gonna Be the Twin-Tail!!
 Grand Blue Dreaming
 Great Pretender
-Grisaia: Phantom Trigger THE ANIMATION
+Grisaia 
 Grope: Yami no naka no Kotoritachi
 Haikyu!!
-Hanamonogatari
 Hatsujou Switch: Otosareta Shoujo-tachi - THE ANIMATION
 Heavy Object
 Helter Skelter: Hakudaku no Mura
 Hensuki: Are You Willing to Fall in Love with a Pervert, as Long as She’s a Cutie?
 Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway
 High School DxD
-High School of the Dead
 High-Rise Invasion
+Highschool of the Dead
 Hika Ryoujoku: The Lust of Shame
 Hime-sama LOVE Life!
 Himouto! Umaru-chan
@@ -158,14 +156,12 @@ Kimi Omou Koi
 Kimi ga Suki. THE ANIMATION
 Kiss Hug
 Kiznaiver
-Kizumonogatari
 Komi Can't Communicate
 Konbini Shoujo Z
 KonoSuba: God's Blessing on This Wonderful World!
 Kowaremono THE ANIMATION
 Kowaremono: Risa PLUS THE ANIMATION
 Koyomi History
-Koyomimonogatari
 Kubo Won't Let Me Be Invisible
 Kuraibito
 Kuro no Kyoushitsu
@@ -214,15 +210,12 @@ My Teen Romantic Comedy SNAFU
 Myriad Colors Phantom World
 Nakaimo - My Little Sister Is Among Them!
 Natsumushi THE ANIMATION
-Nekomonogatari Black
 Nekopara
 Nerawareta Megami Tenshi Angeltia: Mamotta Ningen-tachi ni Uragirarete
 Netokano
 Netosis
 Nisekoi
-Nisemonogatari
 No Game No Life
-No Game, No Life
 Noragami
 Nozoki Kanojo
 ORESUKI: Are You the Only One Who Loves Me?
@@ -244,7 +237,6 @@ Our Last Crusade or the Rise of a New World
 Our Love Has Always Been 10 Centimeters Apart.
 Overflow
 Overlord
-Owarimonogatari
 Oyasumi Sex
 PRETTY×CATION THE ANIMATION
 Plastic Memories
@@ -268,7 +260,6 @@ SPY x FAMILY
 SSSS.GRIDMAN
 SUPER HXEROS
 Saekano: How to Raise a Boring Girlfriend
-Saga of Tanya the Evil
 Saimin Seishidou
 Saimin☆Gakuen
 Saint Cecilia & Pastor Lawrence
@@ -322,10 +313,8 @@ The Day I Became a God
 The Detective Is Already Dead
 The Devil is a Part-Timer!
 The Dreaming Boy is a Realist
-The Eden of Grisaia
 The Eminence in Shadow
 The Fruit of Evolution: Before I Knew It, My Life Had It Made
-The Fruit of Grisaia
 The Future Diary
 The Genius Prince's Guide to Raising a Nation Out of Debt
 The Girl in the Library ～Fall of Purity～ THE ANIMATION
@@ -335,7 +324,6 @@ The Helpful Fox Senko-san
 The Hidden Dungeon Only I Can Enter
 The Honor at Magic High School
 The Irregular at Magic High School
-The Labyrinth of Grisaia
 The Maid I Hired Recently is Mysterious
 The Master of Ragnarök & Blesser of Einherjar
 The Misfit of Demon King Academy
@@ -345,6 +333,7 @@ The Promised Neverland
 The Quintessential Quintuplets
 The Rising of the Shield Hero
 The Ryuo's Work is Never Done!
+The Saga of Tanya the Evil
 The Slime Diaries
 The Strongest Sage with the Weakest Crest
 The Testament of Sister New Devil
@@ -353,9 +342,6 @@ The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
 This Art Club Has a Problem!
 Tinderbox
 To Love Ru
-Toaru Kagaku no Accelerator
-Toaru Kagaku no Railgun
-Toaru Kagaku no Railgun T
 Toaru Kagaku no Suzushina Yuriko
 Toilet-Bound Hanako-kun
 Tokyo Ghoul
@@ -371,7 +357,6 @@ Tropical KISS
 True Blue
 Tsugunai
 Tsuki ga Kirei
-Tsukimonogatari
 Tsuredure Children
 Uchi no Otouto Maji de Dekain dakedo Mi ni Konai?
 Unbreakable Machine-Doll
@@ -393,7 +378,6 @@ Witch Craft Works
 World Break: Aria of Curse for a Holy Swordsman
 WorldEnd: What Are You Doing at the End of the World? Are You Busy? Will You Save Us?
 Wotakoi: Love is Hard for Otaku
-Wotaku ni Koi wa Muzukashii
 Yabai! Fukushuu Yami Site
 Yahari Ore no Seishun Love Come wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.
 Yona of the Dawn
